@@ -33,6 +33,7 @@ Seaborn
 Repository Structure
 
 ├── Global_Terrorism_Analysis.ipynb
+
 ├── README.md
 
 How to Use
