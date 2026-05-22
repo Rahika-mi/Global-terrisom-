@@ -3,12 +3,17 @@ Name: Rahika
 Roll No.: 2474010
 Subject: Introduction to Data Science
 Bsc-physics 
-Project Overview
+
+
+PROJECT OVERVIEW 
 This repository contains a complete data analysis project on Global Terrorism data using Python and Jupyter Notebook.
 
-The project focuses on analyzing terrorism-related datasets to discover trends, patterns, affected regions, attack types, and statistical insights through data visualization and exploratory analysis.
+The project focuses on analyzing terrorism-
+related datasets to discover trends, patterns, affected regions, attack types, and statistical insights through data visualization and exploratory analysis.
 
-Features
+
+FEATURE 
+
 Data cleaning and preprocessing
 Exploratory Data Analysis (EDA)
 Terrorism trend analysis
